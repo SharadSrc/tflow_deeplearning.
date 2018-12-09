@@ -1,9 +1,6 @@
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
-
-
-
 n_values = 32
 x = tf.linspace(-3.0, 3.0, n_values)
 
